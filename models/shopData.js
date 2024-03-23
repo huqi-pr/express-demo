@@ -1,7 +1,7 @@
 exports.data = [
     {
         id: 1,
-        name: "、",
+        name: "101茶餐厅",
         images: [
             "/images/s3fqawWswzk.jpg",
             "/images/aZGOT1OjpJmLxG6urQ.jpg",
